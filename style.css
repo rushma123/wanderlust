@@ -10,6 +10,7 @@ margin: 0 auto;
 body
 {
 	font-family: tahoma;
+	background-image:bg.jpg;
 }
 .hero
 {
@@ -21,7 +22,7 @@ transform: translate(-50%,-50%);
 }
 header
 {
-background-color:cadetblue;
+background-color:black;
 height: 15vh;
 background-position: center;
 background-size: cover;
